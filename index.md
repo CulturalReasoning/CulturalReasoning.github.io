@@ -119,11 +119,4 @@ A rolling list of project publications (2026–2030) will be maintained here.
 
 For inquiries or collaboration:
 
-**Daniel Hershcovich**
-Tenure-Track Assistant Professor, University of Copenhagen
-[https://danielhers.github.io/](https://danielhers.github.io/)
-
----
-
-If you want, I can also produce a **shorter version**, a **web-optimized layout**, or a **matching project banner** for the webpage.
-
+dh@di.ku.dk

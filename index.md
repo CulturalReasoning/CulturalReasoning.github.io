@@ -1,6 +1,8 @@
 # CuRe: Cultural Reasoning for Responsible Language Model Development
 *Independent Research Fund Denmark (DFF), 2026–2030*
 
+![logo](cure_logo.png)
+
 ---
 
 ## **Project Summary**

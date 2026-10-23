@@ -21,7 +21,7 @@ The seminar brings together work on literary knowledge, intertextuality, AI-gene
 <div class="seminar-callout" id="registration">
   <h2>Registration</h2>
   <p><strong>Registration deadline: 1 November 2026.</strong></p>
-  <p>Registration is required for both in-person and online attendance. Please indicate in the form whether you will attend in person at KUA or remotely. After submission, the confirmation page provides a Zoom registration link to obtain your personal joining link if needed.</p>
+  <p>Registration is required for both in-person and online attendance. Please indicate in the form whether you will attend in person at KUA or remotely. The form includes a Zoom registration link for remote attendance.</p>
   <a class="button button-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdmPYi63KnjVBblY6ITyNZHDd0Jw4hBn57-f6RYA8RMEF2yUg/viewform?usp=header">Register for the seminar <span aria-hidden="true">→</span></a>
 </div>
 

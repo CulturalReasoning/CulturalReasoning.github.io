@@ -11,7 +11,7 @@ description: "A CuRe seminar at KUA and online on cultural reasoning, literary s
   <p class="event-lead">A CuRe seminar on cultural reasoning, from literary references and clichés to narrative and retrieval.</p>
   <dl class="event-facts">
     <div><dt>When</dt><dd>Tuesday 3 November 2026<br>10:30–12:00 CET</dd></div>
-    <div><dt>Where</dt><dd>KUA / South Campus<br>Room 23.3.17</dd></div>
+    <div><dt>Where</dt><dd>KUA / South Campus<br>Room 23.3.17 · Building 23, 3rd floor<br>Emil Holms Kanal 4<br>2300 Copenhagen S, Denmark<br><a href="https://hum.ku.dk/kontakt/kort-soendre-campus/">Campus map</a></dd></div>
     <div><dt>Joining</dt><dd>Registration required<br>In person or online</dd></div>
   </dl>
 </div>

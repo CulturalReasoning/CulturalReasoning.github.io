@@ -41,7 +41,7 @@ All times are local to Copenhagen (CET). **Every talk slot includes questions.**
     <tr><th scope="row">10:55–11:10</th><td><a href="#intertextuality">Retrieving Biblical References in Karen Blixen’s <i>Seven Gothic Tales</i></a></td><td>CuRe team</td></tr>
     <tr><th scope="row">11:10–11:30</th><td><a href="#maria-antoniak">What Kinds of Fiction Do AI Users Want? Cliches, Personalization, and Endless Storytelling</a></td><td>Maria Antoniak</td></tr>
     <tr><th scope="row">11:30–11:45</th><td><a href="#teagan-johnson">Characterizing the Narrative Content Across Web-Scale Data</a></td><td>Teagan Johnson</td></tr>
-    <tr><th scope="row">11:45–12:00</th><td><a href="#retrieval">Retrieval-augmented generation for long texts</a></td><td>Giovanni Colavizza<br>Theresia Rampisela</td></tr>
+    <tr><th scope="row">11:45–12:00</th><td><a href="#retrieval">Structure-aware Retrieval-Augmented Generation with Long Context</a></td><td>Giovanni Colavizza<br>Theresia Rampisela</td></tr>
   </tbody>
 </table>
 </div>
@@ -83,9 +83,8 @@ All times are local to Copenhagen (CET). **Every talk slot includes questions.**
 
 <article class="talk-abstract" id="retrieval">
   <p class="talk-meta">11:45–12:00 · Giovanni Colavizza and Theresia Rampisela</p>
-  <h3>Retrieval-augmented generation for long texts</h3>
-  <p>Giovanni will introduce the project’s general direction, and Theresia will present ongoing work on retrieval-augmented generation for long texts.</p>
-  <p class="programme-note">Talk title and abstract forthcoming.</p>
+  <h3>Structure-aware Retrieval-Augmented Generation with Long Context</h3>
+  <p>How can we effectively and efficiently navigate a set of long documents to retrieve the relevant parts? In this talk, we will present: (1) a new dataset for long-query and long-document retrieval in the legal domain; and (2) an early work on using documents’ existing structure for RAG.</p>
 </article>
 
 <h2 id="contact">Organisers and contact</h2>

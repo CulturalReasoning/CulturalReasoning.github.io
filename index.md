@@ -124,9 +124,10 @@ Literature is culturally dense and resistant to easy classification. It gives us
   </article>
 
   <article class="publication-card">
-    <div class="publication-meta"><span class="tag">Research preprint</span><span>2026</span></div>
+    <div class="publication-meta"><span class="tag">Accepted · CHR 2027</span><span>2027</span></div>
     <h3><a href="https://arxiv.org/abs/2609.35765">Retrieving Biblical Intertextual References in Karen Blixen’s <i>Seven Gothic Tales</i></a></h3>
     <p class="authors">András Kovacs, Alexander Conroy, Daniel Hershcovich, and Jens Bjerring-Hansen</p>
+    <p>Accepted at <a href="https://2027.computational-humanities-research.org/">Computational Humanities Research (CHR) 2027</a> in Manchester for a long oral presentation (22 minutes including Q&amp;A).</p>
     <p>We compare sparse and dense retrieval methods for finding transformed cultural references across historical language and translation. Fine-tuning improves retrieval substantially, while expert reassessment shows why benchmark annotations cannot always be treated as exhaustive ground truth.</p>
     <a class="text-link" href="https://arxiv.org/abs/2609.35765">Read the preprint <span aria-hidden="true">→</span></a>
   </article>

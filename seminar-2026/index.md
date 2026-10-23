@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "CuRe seminar · 3 November 2026"
-description: "Public talks on cultural reasoning, literary summaries, intertextuality, AI fiction, narrative and retrieval, followed by an invited research discussion at KUA."
+description: "Public talks at KUA on cultural reasoning, literary summaries, intertextuality, AI fiction, narrative and retrieval."
 ---
 
 <div class="event-hero">
@@ -10,20 +10,19 @@ description: "Public talks on cultural reasoning, literary summaries, intertextu
   <h1>Literature, Narrative and Language Models</h1>
   <p class="event-lead">A CuRe seminar on cultural reasoning, from literary references and clichés to narrative and retrieval.</p>
   <dl class="event-facts">
-    <div><dt>When</dt><dd>Tuesday 3 November 2026<br>10:30–14:30 CET</dd></div>
+    <div><dt>When</dt><dd>Tuesday 3 November 2026<br>10:30–12:00 CET</dd></div>
     <div><dt>Where</dt><dd>KUA / South Campus<br>Room 23.3.17</dd></div>
-    <div><dt>Joining</dt><dd>Public talks, 10:30–12:00<br>Lunch and afternoon by invitation</dd></div>
+    <div><dt>Joining</dt><dd>Open to everyone<br>No registration required</dd></div>
   </dl>
 </div>
 
-The morning brings together work on literary knowledge, intertextuality, AI-generated fiction, narrative in training data, and retrieval for long texts. After lunch, the invited participants will discuss how these approaches can inform CuRe’s research programme and identify concrete opportunities for collaboration.
+The morning brings together work on literary knowledge, intertextuality, AI-generated fiction, narrative in training data, and retrieval for long texts.
 
 **The morning talks are open to everyone; no registration is required.** Coffee, tea and vegan, gluten-free refreshments will be available.
 
 <nav class="section-nav" aria-label="Seminar sections">
   <a href="#programme">Programme</a>
   <a href="#talks">Talks and abstracts</a>
-  <a href="#afternoon">Afternoon discussion</a>
   <a href="#contact">Contact</a>
 </nav>
 
@@ -43,11 +42,6 @@ All times are local to Copenhagen (CET). **Every talk slot includes questions.**
     <tr><th scope="row">11:10–11:30</th><td><a href="#maria-antoniak">What Kinds of Fiction Do AI Users Want? Cliches, Personalization, and Endless Storytelling</a></td><td>Maria Antoniak</td></tr>
     <tr><th scope="row">11:30–11:45</th><td><a href="#teagan-johnson">Characterizing the Narrative Content Across Web-Scale Data</a></td><td>Teagan Johnson</td></tr>
     <tr><th scope="row">11:45–12:00</th><td><a href="#retrieval">Retrieval-augmented generation for long texts</a></td><td>Giovanni Colavizza<br>Theresia Rampisela</td></tr>
-  </tbody>
-  <tbody>
-    <tr class="schedule-band"><th colspan="3" scope="rowgroup">Invited participants</th></tr>
-    <tr><th scope="row">12:00–13:00</th><td>Lunch</td><td></td></tr>
-    <tr><th scope="row">13:00–14:30</th><td><a href="#afternoon">Research priorities, collaborations and next steps</a></td><td>Group discussion</td></tr>
   </tbody>
 </table>
 </div>
@@ -93,12 +87,6 @@ All times are local to Copenhagen (CET). **Every talk slot includes questions.**
   <p>Giovanni will introduce the project’s general direction, and Theresia will present ongoing work on retrieval-augmented generation for long texts.</p>
   <p class="programme-note">Talk title and abstract forthcoming.</p>
 </article>
-
-<h2 id="afternoon">Afternoon discussion</h2>
-
-**13:00–14:30 · Invited participants**
-
-A focused discussion of CuRe’s research priorities and opportunities for collaboration, drawing on the morning’s talks. We aim to identify concrete research questions, possible joint studies and practical next steps. Jens and Alexander are preparing the guiding questions, which will be shared with participants separately.
 
 <h2 id="contact">Organisers and contact</h2>
 

@@ -30,7 +30,7 @@ layout: default
   <div>
     <p class="card-kicker">3 November 2026 · KUA, room 23.3.17</p>
     <h2 id="seminar-heading">Literature, Narrative and Language Models</h2>
-    <p>Join our CuRe seminar on literary knowledge, intertextuality, AI fiction, narrative and retrieval. 10:30–12:00, in person or online. Registration required.</p>
+    <p>Join our CuRe seminar on literary knowledge, intertextuality, AI fiction, narrative and retrieval. 10:30–12:00, in person or online. Registration required by 1 November.</p>
   </div>
   <a class="button button-primary" href="{{ '/seminar-2026/' | relative_url }}">Full programme and abstracts <span aria-hidden="true">→</span></a>
 </aside>

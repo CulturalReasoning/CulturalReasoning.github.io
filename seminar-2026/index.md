@@ -20,11 +20,10 @@ The seminar brings together work on literary knowledge, intertextuality, AI-gene
 
 <div class="seminar-callout" id="registration">
   <h2>Registration</h2>
+  <p><strong>Registration deadline: 1 November 2026.</strong></p>
   <p>Registration is required for both in-person and online attendance. Please indicate in the form whether you will attend in person at KUA or remotely. After submission, the confirmation page provides a Zoom registration link to obtain your personal joining link if needed.</p>
   <a class="button button-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdmPYi63KnjVBblY6ITyNZHDd0Jw4hBn57-f6RYA8RMEF2yUg/viewform?usp=header">Register for the seminar <span aria-hidden="true">→</span></a>
 </div>
-
-Coffee, tea and vegan, gluten-free refreshments will be available at KUA.
 
 <nav class="section-nav" aria-label="Seminar sections">
   <a href="#registration">Registration</a>
@@ -51,8 +50,6 @@ All times are local to Copenhagen (CET). **Every talk slot includes questions.**
   </tbody>
 </table>
 </div>
-
-<p class="programme-note">CuRe talk abstracts are provisional. Presenters for the introduction and intertextuality talk will be confirmed. The programme may receive minor updates.</p>
 
 <h2 id="talks">Talks and abstracts</h2>
 

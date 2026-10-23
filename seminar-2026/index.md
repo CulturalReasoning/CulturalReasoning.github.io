@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "CuRe seminar · 3 November 2026"
-description: "Public talks at KUA on cultural reasoning, literary summaries, intertextuality, AI fiction, narrative and retrieval."
+description: "A CuRe seminar at KUA and online on cultural reasoning, literary summaries, intertextuality, AI fiction, narrative and retrieval. Registration required."
 ---
 
 <div class="event-hero">
@@ -12,15 +12,21 @@ description: "Public talks at KUA on cultural reasoning, literary summaries, int
   <dl class="event-facts">
     <div><dt>When</dt><dd>Tuesday 3 November 2026<br>10:30–12:00 CET</dd></div>
     <div><dt>Where</dt><dd>KUA / South Campus<br>Room 23.3.17</dd></div>
-    <div><dt>Joining</dt><dd>Open to everyone<br>No registration required</dd></div>
+    <div><dt>Joining</dt><dd>Registration required<br>In person or online</dd></div>
   </dl>
 </div>
 
-The morning brings together work on literary knowledge, intertextuality, AI-generated fiction, narrative in training data, and retrieval for long texts.
+The seminar brings together work on literary knowledge, intertextuality, AI-generated fiction, narrative in training data, and retrieval for long texts.
 
-**The morning talks are open to everyone; no registration is required.** Coffee, tea and vegan, gluten-free refreshments will be available.
+<div class="seminar-callout" id="registration">
+  <h2>Registration</h2>
+  <p>Registration is required for both in-person and remote attendance. Please indicate whether you will attend in person when you register. Everyone who registers will receive a link to join remotely if needed.</p>
+</div>
+
+Coffee, tea and vegan, gluten-free refreshments will be available at KUA.
 
 <nav class="section-nav" aria-label="Seminar sections">
+  <a href="#registration">Registration</a>
   <a href="#programme">Programme</a>
   <a href="#talks">Talks and abstracts</a>
   <a href="#contact">Contact</a>
@@ -35,9 +41,8 @@ All times are local to Copenhagen (CET). **Every talk slot includes questions.**
   <caption>Tuesday 3 November · KUA, room 23.3.17</caption>
   <thead><tr><th scope="col">Time</th><th scope="col">Session</th><th scope="col">Speakers</th></tr></thead>
   <tbody>
-    <tr class="schedule-band"><th colspan="3" scope="rowgroup">Public morning talks</th></tr>
     <tr><th scope="row">10:30–10:40</th><td><a href="#cure-overview">CuRe: Evaluating and Improving Cultural Reasoning</a></td><td>CuRe team</td></tr>
-    <tr><th scope="row">10:40–10:55</th><td><a href="#booksum">BOOKSUM: What Does a Language Model Know About a Book?</a></td><td>CuRe team</td></tr>
+    <tr><th scope="row">10:40–10:55</th><td><a href="#novelsum">Cultural memory, close reading and automation. Experiments with literary summarization through LLMs</a></td><td>Alexander Conroy</td></tr>
     <tr><th scope="row">10:55–11:10</th><td><a href="#intertextuality">Retrieving Biblical References in Karen Blixen’s <i>Seven Gothic Tales</i></a></td><td>CuRe team</td></tr>
     <tr><th scope="row">11:10–11:30</th><td><a href="#maria-antoniak">What Kinds of Fiction Do AI Users Want? Cliches, Personalization, and Endless Storytelling</a></td><td>Maria Antoniak</td></tr>
     <tr><th scope="row">11:30–11:45</th><td><a href="#teagan-johnson">Characterizing the Narrative Content Across Web-Scale Data</a></td><td>Teagan Johnson</td></tr>
@@ -46,7 +51,7 @@ All times are local to Copenhagen (CET). **Every talk slot includes questions.**
 </table>
 </div>
 
-<p class="programme-note">CuRe talk titles and abstracts below are provisional; individual presenters will be confirmed. The programme may receive minor updates.</p>
+<p class="programme-note">CuRe talk abstracts are provisional. Presenters for the introduction and intertextuality talk will be confirmed. The programme may receive minor updates.</p>
 
 <h2 id="talks">Talks and abstracts</h2>
 
@@ -54,12 +59,14 @@ All times are local to Copenhagen (CET). **Every talk slot includes questions.**
   <p class="talk-meta">10:30–10:40 · CuRe team</p>
   <h3>CuRe: Evaluating and Improving Cultural Reasoning</h3>
   <p>How good are language models at cultural reasoning, and what would it mean to make them better? CuRe approaches these questions through literature, where interpretation depends on context and can support several defensible readings. We introduce the project’s three connected aims: constructing benchmarks for culturally grounded interpretation, evaluating models while preserving ambiguity and scholarly disagreement, and adapting models to improve their reasoning without reinforcing stereotypes. Working with Danish literary texts, the project brings computational methods into dialogue with literary scholarship. We outline the research programme and the questions on which we hope to develop concrete collaborations during the seminar.</p>
+  <a class="text-link" href="https://arxiv.org/abs/2609.30897">Read our perspective preprint <span aria-hidden="true">→</span></a>
 </article>
 
-<article class="talk-abstract" id="booksum">
-  <p class="talk-meta">10:40–10:55 · CuRe team</p>
-  <h3>BOOKSUM: What Does a Language Model Know About a Book?</h3>
-  <p>A language model can produce a convincing account of a book without being given the book itself. What does that account reveal about its knowledge? This talk presents our ongoing BOOKSUM work on generating literary summaries from metadata alone, with particular attention to canonical bias: how a work’s literary prominence may affect the model’s account of it. We discuss the challenges of evaluating these summaries and interpreting differences between books. The study also raises broader questions for CuRe about what literary tasks actually measure, and how to distinguish familiarity with a work from an ability to reason about its text.</p>
+<article class="talk-abstract" id="novelsum">
+  <p class="talk-meta">10:40–10:55 · Alexander Conroy · DHNB 2026 paper</p>
+  <h3>Cultural memory, close reading and automation. Experiments with literary summarization through LLMs</h3>
+  <p>What makes a useful literary summary, and how can language models assist in producing one? Drawing on experiments with late-nineteenth-century Danish-language novels, we examine summaries generated from the text and from author and title alone. We consider how they preserve time, place, characters, plot and themes, and what metadata-based generation reveals about cultural priors and canonical knowledge. The talk explores how automated summarization can support literary research while raising questions about factuality, selection, interpretation and scholarly evaluation.</p>
+  <a class="text-link" href="https://aclanthology.org/2026.lrec-1.780.pdf">Related paper: NOVELSUM (LREC 2026) <span aria-hidden="true">→</span></a>
 </article>
 
 <article class="talk-abstract" id="intertextuality">

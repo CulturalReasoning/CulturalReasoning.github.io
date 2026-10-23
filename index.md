@@ -23,7 +23,17 @@ layout: default
   <a href="#programme">Research programme</a>
   <a href="#publications">Publications</a>
   <a href="#team">Team</a>
+  <a href="{{ '/seminar-2026/' | relative_url }}">November seminar</a>
 </nav>
+
+<aside class="seminar-callout" aria-labelledby="seminar-heading">
+  <div>
+    <p class="card-kicker">3 November 2026 · KUA, room 23.3.17</p>
+    <h2 id="seminar-heading">Literature, Narrative and Language Models</h2>
+    <p>Join the public morning of our CuRe seminar: talks on literary knowledge, intertextuality, AI fiction, narrative and retrieval. 10:30–12:00; no registration required.</p>
+  </div>
+  <a class="button button-primary" href="{{ '/seminar-2026/' | relative_url }}">Full programme and abstracts <span aria-hidden="true">→</span></a>
+</aside>
 
 <div id="hiring" class="hiring-card">
   <div>

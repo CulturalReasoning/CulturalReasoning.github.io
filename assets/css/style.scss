@@ -563,3 +563,173 @@ a:focus {
     border-left: 0;
   }
 }
+
+/* November 2026 seminar */
+.seminar-callout {
+  margin: 0 0 2rem;
+  padding: clamp(1.4rem, 3vw, 2rem);
+  border: 1px solid #dcd1ef;
+  border-radius: 20px;
+  background: linear-gradient(130deg, var(--cure-purple-soft), var(--cure-paper));
+}
+
+.seminar-callout h2 {
+  margin: 0.5rem 0 0.8rem;
+  font-size: 1.55rem;
+}
+
+.seminar-callout p:not(.card-kicker) {
+  max-width: 65ch;
+  margin-bottom: 1.2rem;
+}
+
+.event-hero {
+  padding-bottom: 1.2rem;
+}
+
+.event-back {
+  display: inline-block;
+  margin-bottom: 2rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.event-hero h1 {
+  margin: 0.6rem 0 1.1rem;
+  font-size: clamp(2.1rem, 4vw, 3.7rem);
+  line-height: 1.08;
+  letter-spacing: -0.04em;
+}
+
+.event-lead {
+  max-width: 60ch;
+  color: var(--cure-muted);
+  font-size: 1.1rem;
+  line-height: 1.65;
+}
+
+.event-facts {
+  display: grid;
+  grid-template-columns: 1fr 0.9fr 1.25fr;
+  gap: 1.4rem;
+  margin: 1.8rem 0 0;
+  padding: 1.4rem;
+  border-radius: 16px;
+  background: var(--cure-purple-soft);
+}
+
+.event-facts dt {
+  margin-bottom: 0.4rem;
+  color: var(--cure-purple-dark);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.event-facts dd {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+.schedule-wrap {
+  margin: 1.3rem 0 1rem;
+  overflow-x: auto;
+  border: 1px solid var(--cure-line);
+  border-radius: 14px;
+}
+
+.event-schedule {
+  width: 100%;
+  min-width: 590px;
+  margin: 0;
+  border-collapse: collapse;
+  table-layout: fixed;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.event-schedule caption {
+  padding: 1rem;
+  text-align: left;
+  font-weight: 600;
+}
+
+.event-schedule th,
+.event-schedule td {
+  padding: 0.85rem 1rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--cure-line);
+  overflow-wrap: break-word;
+}
+
+.event-schedule thead th {
+  color: var(--cure-muted);
+  font-size: 0.76rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.event-schedule thead th:first-child {
+  width: 105px;
+}
+
+.event-schedule thead th:last-child {
+  width: 150px;
+}
+
+.event-schedule th[scope="row"] {
+  white-space: nowrap;
+  font-size: 0.84rem;
+  font-weight: 500;
+}
+
+.event-schedule .schedule-band th {
+  color: var(--cure-purple-dark);
+  background: var(--cure-purple-soft);
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.event-schedule tbody:last-child tr:last-child > * {
+  border-bottom: 0;
+}
+
+.programme-note {
+  color: var(--cure-muted);
+  font-size: 0.88rem;
+  line-height: 1.6;
+}
+
+.talk-abstract {
+  padding: 1.7rem 0;
+  border-top: 1px solid var(--cure-line);
+  scroll-margin-top: 1.5rem;
+}
+
+.talk-abstract h3 {
+  margin: 0.45rem 0 0.9rem;
+  font-size: 1.4rem;
+  line-height: 1.3;
+  letter-spacing: -0.02em;
+}
+
+.talk-abstract p:last-child {
+  margin-bottom: 0;
+}
+
+.talk-meta {
+  margin-bottom: 0;
+  color: var(--cure-purple-dark);
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+@media screen and (max-width: 720px) {
+  .event-facts {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}

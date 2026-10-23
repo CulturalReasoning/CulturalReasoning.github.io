@@ -20,8 +20,8 @@ The seminar brings together work on literary knowledge, intertextuality, AI-gene
 
 <div class="seminar-callout" id="registration">
   <h2>Registration</h2>
-  <p>Registration is required for both in-person and remote attendance. Everyone who registers will receive a link to join remotely if needed.</p>
-  <a class="button button-primary" href="https://ucph-ku.zoom.us/meeting/register/DWIR4weHSY-Oslf_Ge9Okw">Register for the seminar <span aria-hidden="true">→</span></a>
+  <p>Registration is required for both in-person and online attendance. Please indicate in the form whether you will attend in person at KUA or remotely.</p>
+  <a class="button button-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdmPYi63KnjVBblY6ITyNZHDd0Jw4hBn57-f6RYA8RMEF2yUg/viewform?usp=header">Register for the seminar <span aria-hidden="true">→</span></a>
 </div>
 
 Coffee, tea and vegan, gluten-free refreshments will be available at KUA.

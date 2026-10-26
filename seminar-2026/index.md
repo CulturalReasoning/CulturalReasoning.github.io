@@ -61,7 +61,7 @@ All times are local to Copenhagen (CET). **Every talk slot includes questions.**
 </article>
 
 <article class="talk-abstract" id="novelsum">
-  <p class="talk-meta">10:40–10:55 · Alexander Conroy · DHNB 2026 paper</p>
+  <p class="talk-meta">10:40–10:55 · Alexander Conroy</p>
   <h3>Cultural memory, close reading and automation. Experiments with literary summarization through LLMs</h3>
   <p>What makes a useful literary summary, and how can language models assist in producing one? Drawing on experiments with late-nineteenth-century Danish-language novels, we examine summaries generated from the text and from author and title alone. We consider how they preserve time, place, characters, plot and themes, and what metadata-based generation reveals about cultural priors and canonical knowledge. The talk explores how automated summarization can support literary research while raising questions about factuality, selection, interpretation and scholarly evaluation.</p>
   <a class="text-link" href="https://aclanthology.org/2026.lrec-1.780.pdf">Related paper: NOVELSUM (LREC 2026) <span aria-hidden="true">→</span></a>

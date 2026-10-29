@@ -10,7 +10,7 @@ description: "A CuRe seminar at KUA and online on cultural reasoning, literary s
   <h1>Literature, Narrative and Language Models</h1>
   <p class="event-lead">A CuRe seminar on cultural reasoning, from literary references and clichés to narrative and retrieval.</p>
   <dl class="event-facts">
-    <div><dt>When</dt><dd>Tuesday 3 November 2026<br>10:30–12:00 CET</dd></div>
+    <div><dt>When</dt><dd>Tuesday 3 November 2026<br>Coffee from 10:00<br>Talks 10:30–12:00 CET</dd></div>
     <div><dt>Where</dt><dd>KUA / South Campus<br>Room 23.3.17 · Building 23, 3rd floor<br>Emil Holms Kanal 4<br>2300 Copenhagen S, Denmark<br><a href="https://hum.ku.dk/kontakt/kort-soendre-campus/">Campus map</a></dd></div>
     <div><dt>Joining</dt><dd>Registration required<br>In person or online</dd></div>
   </dl>
@@ -41,6 +41,7 @@ All times are local to Copenhagen (CET). **Every talk slot includes questions.**
   <caption>Tuesday 3 November · KUA, room 23.3.17</caption>
   <thead><tr><th scope="col">Time</th><th scope="col">Session</th><th scope="col">Speakers</th></tr></thead>
   <tbody>
+    <tr><th scope="row">10:00–10:30</th><td colspan="2">Coffee</td></tr>
     <tr><th scope="row">10:30–10:40</th><td><a href="#cure-overview">CuRe: Evaluating and Improving Cultural Reasoning</a></td><td>Daniel Hershcovich<br>Jens Bjerring-Hansen</td></tr>
     <tr><th scope="row">10:40–10:55</th><td><a href="#novelsum">Cultural memory, close reading and automation. Experiments with literary summarization through LLMs</a></td><td>Alexander Conroy</td></tr>
     <tr><th scope="row">10:55–11:10</th><td><a href="#intertextuality">Retrieving Biblical References in Karen Blixen’s <i>Seven Gothic Tales</i></a></td><td>Shibingfeng Zhang<br>András Kovács</td></tr>

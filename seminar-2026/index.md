@@ -42,10 +42,10 @@ All times are local to Copenhagen (CET). **Every talk slot includes questions.**
   <thead><tr><th scope="col">Time</th><th scope="col">Session</th><th scope="col">Speakers</th></tr></thead>
   <tbody>
     <tr><th scope="row">10:00–10:30</th><td colspan="2">Coffee</td></tr>
-    <tr><th scope="row">10:30–10:40</th><td><a href="#cure-overview">CuRe: Evaluating and Improving Cultural Reasoning</a></td><td>Daniel Hershcovich<br>Jens Bjerring-Hansen</td></tr>
-    <tr><th scope="row">10:40–10:55</th><td><a href="#novelsum">Cultural memory, close reading and automation. Experiments with literary summarization through LLMs</a></td><td>Alexander Conroy</td></tr>
-    <tr><th scope="row">10:55–11:10</th><td><a href="#intertextuality">Retrieving Biblical References in Karen Blixen’s <i>Seven Gothic Tales</i></a></td><td>Shibingfeng Zhang<br>András Kovács</td></tr>
-    <tr><th scope="row">11:10–11:30</th><td><a href="#maria-antoniak">What Kinds of Fiction Do AI Users Want? Cliches, Personalization, and Endless Storytelling</a></td><td>Maria Antoniak</td></tr>
+    <tr><th scope="row">10:30–10:45</th><td><a href="#cure-overview">CuRe: Evaluating and Improving Cultural Reasoning</a></td><td>Daniel Hershcovich<br>Jens Bjerring-Hansen</td></tr>
+    <tr><th scope="row">10:45–11:00</th><td><a href="#novelsum">Cultural memory, close reading and automation. Experiments with literary summarization through LLMs</a></td><td>Alexander Conroy</td></tr>
+    <tr><th scope="row">11:00–11:15</th><td><a href="#intertextuality">Retrieving Biblical References in Karen Blixen’s <i>Seven Gothic Tales</i></a></td><td>Shibingfeng Zhang<br>András Kovács</td></tr>
+    <tr><th scope="row">11:15–11:30</th><td><a href="#maria-antoniak">What Kinds of Fiction Do AI Users Want? Cliches, Personalization, and Endless Storytelling</a></td><td>Maria Antoniak</td></tr>
     <tr><th scope="row">11:30–11:45</th><td><a href="#teagan-johnson">Characterizing the Narrative Content Across Web-Scale Data</a></td><td>Teagan Johnson</td></tr>
     <tr><th scope="row">11:45–12:00</th><td><a href="#retrieval">Structure-aware Retrieval-Augmented Generation with Long Context</a></td><td>Giovanni Colavizza<br>Theresia Rampisela</td></tr>
   </tbody>
@@ -55,28 +55,28 @@ All times are local to Copenhagen (CET). **Every talk slot includes questions.**
 <h2 id="talks">Talks and abstracts</h2>
 
 <article class="talk-abstract" id="cure-overview">
-  <p class="talk-meta">10:30–10:40 · Daniel Hershcovich and Jens Bjerring-Hansen</p>
+  <p class="talk-meta">10:30–10:45 · Daniel Hershcovich and Jens Bjerring-Hansen</p>
   <h3>CuRe: Evaluating and Improving Cultural Reasoning</h3>
   <p>How good are language models at cultural reasoning, and what would it mean to make them better? CuRe approaches these questions through literature, where interpretation depends on context and can support several defensible readings. We introduce the project’s three connected aims: constructing benchmarks for culturally grounded interpretation, evaluating models while preserving ambiguity and scholarly disagreement, and adapting models to improve their reasoning without reinforcing stereotypes. Working with Danish literary texts, the project brings computational methods into dialogue with literary scholarship. We outline the research programme and the questions on which we hope to develop concrete collaborations during the seminar.</p>
   <a class="text-link" href="https://arxiv.org/abs/2609.30897">Read our perspective preprint <span aria-hidden="true">→</span></a>
 </article>
 
 <article class="talk-abstract" id="novelsum">
-  <p class="talk-meta">10:40–10:55 · Alexander Conroy</p>
+  <p class="talk-meta">10:45–11:00 · Alexander Conroy</p>
   <h3>Cultural memory, close reading and automation. Experiments with literary summarization through LLMs</h3>
   <p>What makes a useful literary summary, and how can language models assist in producing one? Drawing on experiments with late-nineteenth-century Danish-language novels, we examine summaries generated from the text and from author and title alone. We consider how they preserve time, place, characters, plot and themes, and what metadata-based generation reveals about cultural priors and canonical knowledge. The talk explores how automated summarization can support literary research while raising questions about factuality, selection, interpretation and scholarly evaluation.</p>
   <a class="text-link" href="https://aclanthology.org/2026.lrec-1.780.pdf">Related paper: NOVELSUM (LREC 2026) <span aria-hidden="true">→</span></a>
 </article>
 
 <article class="talk-abstract" id="intertextuality">
-  <p class="talk-meta">10:55–11:10 · Shibingfeng Zhang and András Kovács</p>
+  <p class="talk-meta">11:00–11:15 · Shibingfeng Zhang and András Kovács</p>
   <h3>Retrieving Biblical References in Karen Blixen’s <i>Seven Gothic Tales</i></h3>
   <p>Literary allusions often transform their sources, making them difficult to retrieve through verbal overlap alone. We present our study of biblical intertextual references in Karen Blixen’s <i>Seven Gothic Tales</i>, comparing sparse and dense retrieval methods across historical language and translation. Fine-tuning improves retrieval, while expert reassessment shows why existing annotations cannot always be treated as exhaustive ground truth. We discuss what this case teaches us about evaluating culturally grounded retrieval and how it can inform CuRe’s broader work on evidence, context and interpretive uncertainty.</p>
   <a class="text-link" href="https://arxiv.org/abs/2609.35765">Read the preprint <span aria-hidden="true">→</span></a>
 </article>
 
 <article class="talk-abstract" id="maria-antoniak">
-  <p class="talk-meta">11:10–11:30 · Maria Antoniak</p>
+  <p class="talk-meta">11:15–11:30 · Maria Antoniak</p>
   <h3>What Kinds of Fiction Do AI Users Want? Cliches, Personalization, and Endless Storytelling</h3>
   <p>I’ll begin by discussing our recent work on examining AI-generated fiction and observations of user-chatbot conversations in which users prompt for and edit generated stories. Studying this real user behavior breaks many common assumptions about what kinds of fiction people want from models, and has led us to new work on better understanding, measuring, and examining the sources of cliches in both literary texts and generated fiction.</p>
 </article>
